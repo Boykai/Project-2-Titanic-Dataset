@@ -4,7 +4,7 @@
 ## The Purpose of Investigation
 
 This project will conduct data analysis and create upon the 'Titanic Data' provided by Kaggle. The project will use Pandas and NumPy to attempt to answer and obtain insight into the questions below. 
-* For full analysis of the Titanic Data, please see 'Project 2 Investigate a Dataset.ipynb'.
+* **For full analysis of the Titanic Data, please see 'Project 2 Investigate a Dataset.ipynb'.**
 
 Question, Wrangle, Explore, Draw Conclusions, Communicate
 
